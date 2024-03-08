@@ -1,4 +1,4 @@
-<-- ![ML cover image](https://media.licdn.com/dms/image/D4E16AQEFbmm_fOC6GA/profile-displaybackgroundimage-shrink_350_1400/0/1709832960325?e=1715212800&v=beta&t=hOoekviCrSawjCkFlCTUpL3OvtdsHK35NzpO1KoMEsg) -->
+<!-- ![ML cover image](https://media.licdn.com/dms/image/D4E16AQEFbmm_fOC6GA/profile-displaybackgroundimage-shrink_350_1400/0/1709832960325?e=1715212800&v=beta&t=hOoekviCrSawjCkFlCTUpL3OvtdsHK35NzpO1KoMEsg) -->
 
 ### About Me
 I'm a former teacher turned software engineer who has a passion for continuous learning through my personal love of technology, education, and art. You can always find me making something, whether it is a game, app, painting, or even cosplay.
